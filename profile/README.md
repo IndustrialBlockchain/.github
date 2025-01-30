@@ -1,3 +1,3 @@
 **inblo** | Industrial Blockchain
 
-> WORK IN PROGRESS
+WORK IN PROGRESS
