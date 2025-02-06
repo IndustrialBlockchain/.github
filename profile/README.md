@@ -1,3 +1,3 @@
-**IB** | Industrial Blockchain
+**ib** | Industrial Blockchain
 
 WORK IN PROGRESS
